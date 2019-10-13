@@ -1,0 +1,183 @@
+Output 
+----------------
+----------------
+File 1: ffw.txt
+Car attributes before serialization:
+
+Ford Focus Wagon ZTW
+Base Price: $18445.00
+Option Set Name: Color 
+- Fort Knox Gold Clearcoat Metallic: $0.00
+- Liquid Grey Clearcoat Metallic: $0.00
+- Infra-Red Clearcoat: $0.00
+- Grabber Green Clearcoat Metallic: $0.00
+- Sangria Red Clearcoat Metallic: $0.00
+- French Blue Clearcoat Metallic: $0.00
+- Twilight Blue Clearcoat Metallic: $0.00
+- CD Silver Clearcoat Metallic: $0.00
+- Pitch Black Clearcoat: $0.00
+- Cloud 9 White Clearcoat: $0.00
+Option Set Name: Transmission 
+- Automatic: $0.00
+- Manual: $-815.00
+Option Set Name: Brakes/Traction Control 
+- Standard: $0.00
+- ABS: $400.00
+- ABS with Advance Trac: $1625.00
+Option Set Name: Side Impact Air Bags 
+- Selected: $350.00
+- Not Selected: $0.00
+Option Set Name: Power Moonroof 
+- Selected: $595.00
+- Not Selected: $0.00
+
+Car attributes after serialization and deserialization:
+
+Ford Focus Wagon ZTW
+Base price is $18445.00
+Option Set Name: Color 
+- Fort Knox Gold Clearcoat Metallic: $0.00
+- Liquid Grey Clearcoat Metallic: $0.00
+- Infra-Red Clearcoat: $0.00
+- Grabber Green Clearcoat Metallic: $0.00
+- Sangria Red Clearcoat Metallic: $0.00
+- French Blue Clearcoat Metallic: $0.00
+- Twilight Blue Clearcoat Metallic: $0.00
+- CD Silver Clearcoat Metallic: $0.00
+- Pitch Black Clearcoat: $0.00
+- Cloud 9 White Clearcoat: $0.00
+Option Set Name: Transmission 
+- Automatic: $0.00
+- Manual: $-815.00
+Option Set Name: Brakes/Traction Control 
+- Standard: $0.00
+- ABS: $400.00
+- ABS with Advance Trac: $1625.00
+Option Set Name: Side Impact Air Bags 
+- Selected: $350.00
+- Not Selected: $0.00
+Option Set Name: Power Moonroof 
+- Selected: $595.00
+- Not Selected: $0.00
+
+----------------
+----------------
+File 2: ffrs.txt
+Car attributes before serialization:
+
+Ford Focus RS
+Base Price: $31291.00
+Option Set Name: Color 
+- Fort Knox Gold Clearcoat Metallic: $0.00
+- Liquid Grey Clearcoat Metallic: $0.00
+- Infra-Red Clearcoat: $0.00
+- Grabber Green Clearcoat Metallic: $0.00
+- Sangria Red Clearcoat Metallic: $0.00
+- French Blue Clearcoat Metallic: $0.00
+- Twilight Blue Clearcoat Metallic: $0.00
+- CD Silver Clearcoat Metallic: $0.00
+- Pitch Black Clearcoat: $0.00
+- Cloud 9 White Clearcoat: $0.00
+Option Set Name: Transmission 
+- Automatic: $0.00
+- Manual: $-815.00
+Option Set Name: Brakes/Traction Control 
+- Standard: $0.00
+- ABS: $400.00
+- ABS with Advance Trac: $1625.00
+Option Set Name: Side Impact Air Bags 
+- Selected: $350.00
+- Not Selected: $0.00
+Option Set Name: Power Moonroof 
+- Selected: $595.00
+- Not Selected: $0.00
+Option Set Name: Apple CarPlay 
+- Selected: $300.00
+- Not Selected: $0.00
+Option Set Name: Tire Kit 
+- Standard: $0.00
+- Upgrade: $400.00
+
+Car attributes after serialization and deserialization:
+
+Ford Focus RS
+Base Price: $31291.00
+Option Set Name: Color 
+- Fort Knox Gold Clearcoat Metallic: $0.00
+- Liquid Grey Clearcoat Metallic: $0.00
+- Infra-Red Clearcoat: $0.00
+- Grabber Green Clearcoat Metallic: $0.00
+- Sangria Red Clearcoat Metallic: $0.00
+- French Blue Clearcoat Metallic: $0.00
+- Twilight Blue Clearcoat Metallic: $0.00
+- CD Silver Clearcoat Metallic: $0.00
+- Pitch Black Clearcoat: $0.00
+- Cloud 9 White Clearcoat: $0.00
+Option Set Name: Transmission 
+- Automatic: $0.00
+- Manual: $-815.00
+Option Set Name: Brakes/Traction Control 
+- Standard: $0.00
+- ABS: $400.00
+- ABS with Advance Trac: $1625.00
+Option Set Name: Side Impact Air Bags 
+- Selected: $350.00
+- Not Selected: $0.00
+Option Set Name: Power Moonroof 
+- Selected: $595.00
+- Not Selected: $0.00
+Option Set Name: Apple CarPlay 
+- Selected: $300.00
+- Not Selected: $0.00
+Option Set Name: Tire Kit 
+- Standard: $0.00
+- Upgrade: $400.00
+
+---------------
+---------------
+File 3: es.txt
+Car attributes before serialization:
+
+Electric Scooter 3000
+Base Price: $2345.00
+Option Set Name: Color 
+- Fort Knox Gold Clearcoat Metallic: $0.00
+- Liquid Grey Clearcoat Metallic: $0.00
+- Infra-Red Clearcoat: $0.00
+- Grabber Green Clearcoat Metallic: $0.00
+- Sangria Red Clearcoat Metallic: $0.00
+- French Blue Clearcoat Metallic: $0.00
+- Twilight Blue Clearcoat Metallic: $0.00
+- CD Silver Clearcoat Metallic: $0.00
+- Pitch Black Clearcoat: $0.00
+- Cloud 9 White Clearcoat: $0.00
+Option Set Name: Transmission 
+- Automatic: $0.00
+- Manual: $-815.00
+Option Set Name: Brakes/Traction Control 
+- Standard: $0.00
+- ABS: $400.00
+- ABS with Advance Trac: $1625.00
+
+Car attributes after serialization and deserialization:
+
+Electric Scooter 3000
+Base Price: $2345.00
+Option Set Name: Color 
+- Fort Knox Gold Clearcoat Metallic: $0.00
+- Liquid Grey Clearcoat Metallic: $0.00
+- Infra-Red Clearcoat: $0.00
+- Grabber Green Clearcoat Metallic: $0.00
+- Sangria Red Clearcoat Metallic: $0.00
+- French Blue Clearcoat Metallic: $0.00
+- Twilight Blue Clearcoat Metallic: $0.00
+- CD Silver Clearcoat Metallic: $0.00
+- Pitch Black Clearcoat: $0.00
+- Cloud 9 White Clearcoat: $0.00
+Option Set Name: Transmission 
+- Automatic: $0.00
+- Manual: $-815.00
+Option Set Name: Brakes/Traction Control 
+- Standard: $0.00
+- ABS: $400.00
+- ABS with Advance Trac: $1625.00
