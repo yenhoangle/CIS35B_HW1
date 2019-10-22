@@ -1,6 +1,4 @@
 /*
- * Yen Le
- * 20123455
  *
  * Automotive.java
  * Class contains methods to create a representation of all options for specifying a Automative object as well as

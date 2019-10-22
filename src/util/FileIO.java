@@ -1,6 +1,4 @@
 /*
- * Yen Le
- * 20123455
  *
  * FileIO.java
  * Class contains methods to build an Automative object from a file as well as serializing and deserialzing it
