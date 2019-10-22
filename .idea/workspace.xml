@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a71a75a2-2ec8-4bd0-b6e3-38c22d99773a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/model/Automotive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/Automotive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/model/OptionSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/OptionSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/FileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/FileIO.java" afterDir="false" />
-    </list>
+    <list default="true" id="a71a75a2-2ec8-4bd0-b6e3-38c22d99773a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,10 +71,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-76" />
-    <option name="y" value="154" />
+    <option name="x" value="360" />
+    <option name="y" value="148" />
     <option name="width" value="1523" />
-    <option name="height" value="1100" />
+    <option name="height" value="1094" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -168,7 +164,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="426" y="143" width="1523" height="1100" extended-state="0" />
+    <frame x="360" y="148" width="1523" height="1094" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28229666" />
