@@ -5,7 +5,6 @@
  * */
 
 package util;
-import java.util.*;
 import java.io.*;
 import model.Automotive;
 import model.OptionSet;
