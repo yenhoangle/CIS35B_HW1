@@ -1,5 +1,4 @@
 /*
- *
  * Automotive.java
  * Class contains methods to create a representation of all options for specifying a Automative object as well as
  * performing CRUD operations on the OptionSet objects.
