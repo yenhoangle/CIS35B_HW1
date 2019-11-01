@@ -1,5 +1,4 @@
 /*
- *
  * OptionSet.java
  * OptionSet is the outer class that represents an array of options. It contains methods to access, update, and delete
  * Option and Option values.
