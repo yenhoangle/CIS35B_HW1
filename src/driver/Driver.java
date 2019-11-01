@@ -1,6 +1,4 @@
 /*
-* Yen Le
-* 20123455
 *
 * Driver.java
 * Driver class to test building Automotive object from file as well as serialization and deserialization
